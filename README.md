@@ -20,7 +20,6 @@ Features:
 The .step and .stl files are in the repo to download. 
 
 Note: You can use a velcro strap or buy a buckle strap from ali express or amazon or even use a ziptie or a rope to tie it up with a drone. That's why the "D" shaped hooks are universal. 
-(I don't have a drone to fly around and attach to, because I am too young to own on where I am from and don't have a license for one.)
 
 Demo vid:
 https://www.youtube.com/watch?v=z6uT1QVcftU
