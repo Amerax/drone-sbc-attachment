@@ -20,3 +20,6 @@ Features:
 The .step and .stl files are in the repo to download. 
 
 Demo images:
+<img width="1408" height="676" alt="image" src="https://github.com/user-attachments/assets/f5e86013-4025-49e4-a8fe-76dfb7efa455" />
+
+<img width="1771" height="1012" alt="image" src="https://github.com/user-attachments/assets/042cb9f0-bbe7-4c71-8e1a-12200b4dc329" />
