@@ -6,7 +6,7 @@ A lot of people can not afford expensive drones, or most drones don't have the s
 
 You could also add a raspberry pi in this so that you can even make a custom flight controler or whatever you want. The point is to make this a universal sort of box or module for drones, where you can put whatever component you want and then do cool stuff with it.
 
-The cad .stl files are linked here. I have used onshape for the design and the onshape link can be found here: 
+The cad .stl files are included in the repo along with a .step file. I have used onshape for the design and the onshape link can be found here: 
 
 https://cad.onshape.com/documents/47a40ae316cf2c739bc150f3/w/eacdad07cdafa9c4f1c3dad0/e/dc3745819c200f9157e6d8f4?renderMode=0&uiState=6a56f0e813b61220a0507558
 
