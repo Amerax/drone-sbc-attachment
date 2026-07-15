@@ -19,6 +19,9 @@ Features:
 
 The .step and .stl files are in the repo to download. 
 
+Demo vid:
+https://www.youtube.com/watch?v=z6uT1QVcftU
+
 Demo images:
 <img width="1408" height="676" alt="image" src="https://github.com/user-attachments/assets/f5e86013-4025-49e4-a8fe-76dfb7efa455" />
 
