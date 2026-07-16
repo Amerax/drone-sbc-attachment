@@ -10,6 +10,8 @@ The cad .stl files are included in the repo along with a .step file. I have used
 
 https://cad.onshape.com/documents/47a40ae316cf2c739bc150f3/w/eacdad07cdafa9c4f1c3dad0/e/dc3745819c200f9157e6d8f4?renderMode=0&uiState=6a56f0e813b61220a0507558
 
+Printables Link: https://www.printables.com/model/1783012-drone-sbc-attachment
+
 Features:
 -Versatile and universal mounting "D" Shaped Hooks 
 -Raspberry pi standoffs
